@@ -1,5 +1,7 @@
 # Inf-DropDown
 
+[点我预览](https://abczdefg.github.io/inf-dropdown/)
+
 #### 实现无限级异步加载的下拉选择菜单
 
 通过扩展bootstrap自带的dropdown实现：
@@ -19,7 +21,7 @@
 </ul>
 ```
 
-#### 注意：Demo中使用AJAX读取本地json数据，`chrome`由于安全机制,不能直接调用本地文件，否则出现跨域现象
+#### 注意：若在本地中运行Demo，`chrome`由于安全机制，不能直接调用本地文件json，会出现跨域现象
 
 解决方法：
 1. 右键点击`chrome`的快捷方式
